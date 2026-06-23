@@ -2,7 +2,7 @@
 # HEART OF GOLD
 # Artist: Neil Young
 # Album: Harvest
-# Released: 1972
+# Released: 1973
 # ---------------------------------------------------
 {title:Heart Of Gold}
 {subtitle: A song about looking for true love}
