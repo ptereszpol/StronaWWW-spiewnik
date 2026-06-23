@@ -1,9 +1,3 @@
-# ---------------------------------------------------
-# HEART OF GOLD
-# Artist: Neil Young
-# Album: Harvest
-# Released: 1976
-# ---------------------------------------------------
 {title:Heart Of Gold}
 {subtitle: A song about looking for true love}
 {artist: Neil Young}
